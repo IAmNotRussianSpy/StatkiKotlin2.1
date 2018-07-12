@@ -1,0 +1,1 @@
+class ArgumentException(override var message : String) : Exception(message) {}
